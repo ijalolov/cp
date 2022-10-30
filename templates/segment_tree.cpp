@@ -43,7 +43,7 @@ struct Node {
 
     Node (int _val, int _c) {
         val = _val,
-        c = _c;
+                c = _c;
     }
 };
 
